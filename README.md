@@ -15,9 +15,17 @@ I'm a versatile full-stack developer with a strong background in front-end devel
 
 ### 📊 Stats
 
-![Luiz504's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz504&show_icons=true&theme=dracula)
+
+<p align="left">
+<img  height="200" src="https://github-readme-stats.vercel.app/api?username=luiz504&show_icons=true&theme=dracula" />
+
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz504&theme=dracula&layout=compact" />
+</p>
+
+
 
 #
+
 
 <details>
  <summary><h3>👨‍💻 Luiz's Coding Journey</h3></summary>
